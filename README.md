@@ -1,2 +1,2 @@
-# cino_oscar.github.io
+# cinooscar.github.io
 Кино_Оскар
